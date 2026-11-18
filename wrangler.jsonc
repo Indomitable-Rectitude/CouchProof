@@ -1,0 +1,9 @@
+// Cloudflare settings for the CouchProof website.
+// The site is plain HTML: Cloudflare serves the files in this folder as they are.
+{
+  "name": "couchproof",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "."
+  }
+}
